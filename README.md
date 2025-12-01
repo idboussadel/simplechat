@@ -3,10 +3,6 @@ Simple Chatbot is a full-stack platform that lets anyone build, customize, train
 
 https://github.com/user-attachments/assets/ce5d92da-63c7-4bd2-97d6-d8e496bc5e35
 
-<img width="1916" height="941" alt="image" src="https://github.com/user-attachments/assets/1f3130b9-206b-4715-ad3b-d8fbcacd6d40" />
-
-<img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/cd4e3439-2ff5-49f8-929d-f96c5cbba35d" />
-
 ## Features
 
 ### Core Functionality
@@ -52,4 +48,6 @@ https://github.com/user-attachments/assets/ce5d92da-63c7-4bd2-97d6-d8e496bc5e35
   - BeautifulSoup4 (HTML/Web scraping)
 - **Migrations**: Alembic
 
+<img width="1916" height="941" alt="image" src="https://github.com/user-attachments/assets/1f3130b9-206b-4715-ad3b-d8fbcacd6d40" />
 
+<img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/cd4e3439-2ff5-49f8-929d-f96c5cbba35d" />
